@@ -3,6 +3,9 @@
 This work has been used to generate data for the publication: "Valluri, S.K., Salvati III, L., Dreizin, E.L., Dlott, D.D., Fast reactions of shocked energetic microporous metallic composites, Propellants, Explosives, Pyrotechnics 48 (10), 2023"
 (https://onlinelibrary.wiley.com/doi/full/10.1002/prep.202300031)
 
+![image](https://github.com/user-attachments/assets/061e69fd-ecd6-419f-b158-f604f5ce1b12)
+
+
 ## ImageJ File ##
 This script processes a series of images from a directory, specifically for analyzing particles in PBX chips using cross-polarized images. Here's a concise summary of its functionality:
 
